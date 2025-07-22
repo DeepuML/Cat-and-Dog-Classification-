@@ -1,4 +1,4 @@
-content = """<h1 align="center">🐱🐶 Cat and Dog Image Classification</h1>
+"""<h1 align="center">🐱🐶 Cat and Dog Image Classification</h1>
 
 ---
 
